@@ -1,0 +1,158 @@
+    1  git --version
+    2  git help config
+    3  cd downloads
+    4  mkdir Project PLP
+    5  cd desktop
+    6  cd Desktop
+    7  cd dsektop
+    8  cd desktop
+    9  mkdir project plp
+   10  cd project plp
+   11  whoami
+   12  pwd
+   13  cd desktop
+   14  dir
+   15  mkrid pi
+   16  mkdir pizza.
+   17  dir
+   18  rmdir pizza.
+   19  dir
+   20  dir
+   21  ls
+   22  whoami
+   23  pwd
+   24  cd desktop
+   25  dir
+   26  mkdir pizza.
+   27  dir
+   28  rmdir pizza.
+   29  dir
+   30  ls -lSr
+   31  clear
+   32  mkdir comp-es
+   33  cd comp-es
+   34  git init
+   35  git status
+   36  touch README.md
+   37  git status
+   38  git add README.md
+   39  git status
+   40  code .
+   41  code .
+   42  git status
+   43  git commit 
+   44  Omit --global
+   45  git config --global bongiwemanyathi6@gmail.com
+   46  git config --global user.name "Bongiwe Manyathi"
+   47  git config -global user.email bongiwemanyathi6@gmail.com
+   48  git config --global user,email bongiwemanyathi6@gmail.com
+   49  git config --global user.email bongiwemanyathi6#gmail.com
+   50  git cinfig --global -e
+   51  git config --global -e
+   52  config --global core.editer "code --wait"
+   53  q
+   54  cd desktop
+   55  mkrid file-1
+   56  mkdir plp-prjct
+   57  touch READUS.md
+   58  git init
+   59  git status
+   60  git add READUS.md
+   61  git status
+   62  code .
+   63  git status
+   64  git commit -m "Added sub heading"
+   65  git status
+   66  code .
+   67  cd Downloads
+   68  mkrid plp-project
+   69  mkdir plp-project
+   70  git init
+   71  git add README. md
+   72  git add READ.ME.md
+   73  git add README.md
+   74  cd Desktop
+   75  mkdir bongiwe-file
+   76  ls
+   77  git init bongiwe-file
+   78  gid add README.md
+   79  git add README.md
+   80  cd Desktop
+   81  cd bongiwe-file
+   82  git init
+   83  git status
+   84  git add README.md
+   85  mkrid git-basic-exercises
+   86  mkdir git-basic-exercises
+   87  cd to git-basic-exercises/
+   88  cd to git-basic-exercises/
+   89  cd to git-
+   90  clear
+   91  cd git-basic-exercises
+   92  ls -a
+   93  git init
+   94  ls -a
+   95  git status
+   96  touch README.md
+   97  ls -a
+   98  git satus
+   99  git status
+  100  git add README.md 
+  101  git status
+  102  clear
+  103  git status
+  104  git commit -m "initial commit"
+  105  git log
+  106  nano README.md 
+  107  cat README.md 
+  108  git status
+  109  git commit -m "second commit"
+  110  git commit -a "second commit"
+  111  clear
+  112  git status
+  113  cat README.md 
+  114  git staus
+  115  git status
+  116  git commit -m "second commit"
+  117  git log
+  118  nano README.md 
+  119  cat README.md 
+  120  git commit -m "second commit"
+  121  git log
+  122  git add README.md 
+  123  git add.
+  124  git staus
+  125  clear
+  126  git status
+  127  git commit -m "second commit"
+  128  git status
+  129  git log
+  130  nano README.md 
+  131  cat README.md 
+  132  git status
+  133  git add README.md 
+  134  git status
+  135  git commit -m "third commit"
+  136  git log
+  137  q
+  138  clear
+  139  git checkout 05ae0397901b936092ea7c00697677a49d5c15ef
+  140  cat README.md 
+  141  git checkout main
+  142  git checkout master
+  143  cat README.md 
+  144  git branch
+  145  git checkout -b milkshake-flavours
+  146  git branch
+  147  nano milkshake-flavours
+  148  git status
+  149  git add milkshake-flavours 
+  150  git status
+  151  git commit -m "added initial flavours"
+  152  git log
+  153  git checkout master
+  154  git status
+  155  git checkout -b history
+  156  git log
+  157  git branch
+  158  history > history.txt
